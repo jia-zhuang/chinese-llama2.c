@@ -8,7 +8,7 @@
 
 作为一个学习项目，本项目把场景拓展到中文，训练中文版的 tinyllamas。
 
-训练数据是将英文版的 [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) (500万样本) 翻译成中文 [tinyllamas-chinese](https://huggingface.co/adam89/tinyllamas-chinese) (翻译了约400万)，获得约 1G 字符的训练数据。在此基础上训练得到能够流畅生成中文小故事的语言模型，欢迎大家试玩！
+训练数据是将英文版的 [TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories) (500万样本) 翻译成中文 [TinyStoriesChinese](https://huggingface.co/datasets/adam89/TinyStoriesChinese) (翻译了约400万)，获得约 1G 字符的训练数据。在此基础上训练得到能够流畅生成中文小故事的语言模型，欢迎大家试玩！
 
 
 ## 试玩
