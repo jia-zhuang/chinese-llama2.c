@@ -4,7 +4,7 @@
 
 ## 简介
 
-[llama2.c](https://github.com/karpathy/llama2.c) 项目提供了大语言模型从训练到部署的完整的技术栈，使得每个人都可以体验大语言模型的训练和推理。
+[llama2.c](https://github.com/karpathy/llama2.c) 项目提供了大语言模型从训练到部署的完整的技术栈，使得个人可以体验大语言模型的训练和推理。
 
 作为一个学习项目，本项目把场景拓展到中文，训练中文版的 tinyllamas。
 
